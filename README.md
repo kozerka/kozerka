@@ -33,7 +33,7 @@
 
 <table><tr><td valign="top" width="42%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kozerka&hide_border=true&layout=compact&theme=transparent" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kozerka&hide_border=true&layout=compact&theme=github_dark" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
