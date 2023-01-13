@@ -7,12 +7,15 @@
   <ul>
     <li>🎓 I graduated in Mathematics at Cracow University of Technology</li>
      <li>💻 I started programming because it makes me happy and satisfied</li>
-     <li>👩🏻‍💻 I’m currently learning at MegaK backend course and develop projects based on the acquired knowledge</li>
+     <li>👩🏻‍💻 I’m currently learning at backend course and develop projects based on the acquired knowledge</li>
      <li>📫 If you want to reach me, write: <a href="mailto: kozerka@gmail.com">kozerka@gmail.com</a></li>
   </ul>
 </div>
 
 <br>
+
+
+
 
 <h2>Languages & Frameworks & Tools & Abilities </h2>
 <br>
@@ -40,5 +43,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kozerka&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
 </td></tr></table>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kozerka&" alt="kozerka" style="margin: 0 auto"/></p>
 
 
