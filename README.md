@@ -34,15 +34,8 @@
 
 <h2>Github Stats </h2>
 
-<table><tr><td valign="top" width="42%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kozerka&hide_border=true&layout=compact&theme=github_dark" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kozerka&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-</td></tr></table>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kozerka&" alt="kozerka" style="margin: 0 auto"/></p>
+![](https://github-readme-stats.vercel.app/api?username=kozerka&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kozerka&theme=github_dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kozerka&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
