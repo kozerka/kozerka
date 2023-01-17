@@ -36,6 +36,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=kozerka&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kozerka&theme=github_dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kozerka&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kozerka&layout=compact&theme=github_dark&hide_border=true)
 
 
