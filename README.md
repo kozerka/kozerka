@@ -7,7 +7,7 @@
   <ul>
     <li>🎓 I graduated in Mathematics at Cracow University of Technology</li>
      <li>💻 I started programming because it makes me happy and satisfied</li>
-     <li>👩🏻‍💻 I’m currently learning at backend course and develop projects based on the acquired knowledge</li>
+     <li>👩🏻‍💻 I’m currently learning at frontend & backend courses and developing projects based on the acquired knowledge</li>
      <li>📫 If you want to reach me, write: <a href="mailto: kozerka@gmail.com">kozerka@gmail.com</a></li>
   </ul>
 </div>
