@@ -30,7 +30,9 @@
 
 ![](https://github-readme-stats-kozerka.vercel.app/api?username=kozerka&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kozerka&theme=dark&hide_border=true)<br/>
-![Top Langs](https://github-readme-stats-kozerka.vercel.app/api/top-langs/?username=kozerka&langs_count=8&layout=compact&theme=dark&hide_border=true)<br/>
+![Top Langs](https://github-readme-stats-kozerka.vercel.app/api/top-langs/?username=kozerka&langs_count=8&layout=compact&theme=dark&hide_border=true&cache_seconds=3600)<br/>
+
+
 
  <img src="https://visitcount.itsvg.in/api?id=kozerka&label=Profile%20Views&color=8&icon=1&pretty=false" alt="Profile Views Count"></p>
   
