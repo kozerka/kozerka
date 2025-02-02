@@ -59,6 +59,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kozerka&theme=holi&hide_border=true)<br/>
 ![Top Langs](https://github-readme-stats-kozerka.vercel.app/api/top-langs/?username=kozerka&langs_count=10&layout=compact&theme=holi&hide_border=true&cache_seconds=3600)<br/>
 
-<img src="https://visitcount.itsvg.in/api?id=kozerka&label=Profile%20Views&color=8&icon=1&pretty=false" alt="Profile Views Count"></p>
 
 
